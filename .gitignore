@@ -1,0 +1,22 @@
+# Environnement Python
+.venv/
+
+# Variables et paramètres sensibles
+.env
+
+# Données reçues / générées
+01_data/incoming/*
+01_data/processed/*
+01_data/rejected/*
+01_data/archive/*
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.tmp
+~$*
+
+# Logs
+*.log
