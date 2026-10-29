@@ -20,3 +20,9 @@ __pycache__/
 
 # Logs
 *.log
+
+# Rapports générés
+01_data/reports/*.xlsx
+
+# Base de données SQLite
+03_database/*.db
